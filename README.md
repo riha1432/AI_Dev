@@ -20,7 +20,7 @@
 
 ### 알고리즘 정확도 비교
 * 로지스틱 회귀
-- <img src = 'https://github.com/user-attachments/assets/728f61d1-5530-463a-8426-b976d8dbe24c' width = '200' height='200/>
+- ![로지스틱 회귀](https://github.com/user-attachments/assets/728f61d1-5530-463a-8426-b976d8dbe24c)
 * k-means
 * DNN
 * CNN
