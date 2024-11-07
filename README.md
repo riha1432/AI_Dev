@@ -20,7 +20,8 @@
 
 ### 알고리즘 정확도 비교
 * 로지스틱 회귀
-- ![로지스틱 회귀](https://github.com/user-attachments/assets/728f61d1-5530-463a-8426-b976d8dbe24c)
+- ![image](https://github.com/user-attachments/assets/bcf7d963-8e79-4592-8f76-087bc1ba9631)
+
 * k-means
 * DNN
 * CNN
