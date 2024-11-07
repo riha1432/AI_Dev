@@ -20,12 +20,13 @@
 
 ### 알고리즘 정확도 비교
 * 로지스틱 회귀
-- ![image](https://github.com/user-attachments/assets/94a36023-d709-4083-bd66-2de6b56def34){: width = "400" height="400"}
-<img src="https://github.com/user-attachments/assets/94a36023-d709-4083-bd66-2de6b56def34" width="500">
-
+- <img src="https://github.com/user-attachments/assets/94a36023-d709-4083-bd66-2de6b56def34" width="400">
 * k-means
+- <img src="https://github.com/user-attachments/assets/f64a6e39-3a30-4a6e-919d-8c9ef76d1680" width="400">
 * DNN
+- <img src="https://github.com/user-attachments/assets/79817835-31c3-43ce-bebf-79aaf02c39ce" width="500">
 * CNN
+- <img src="https://github.com/user-attachments/assets/995eb3ff-94e2-480b-a513-83bda3412819" width="500">
 
 * DNN
 * CNN
