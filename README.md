@@ -19,7 +19,14 @@
 ## 결과
 
 ### 알고리즘 정확도 비교
+* 로지스틱 회귀
+- <img src = 'https://github.com/user-attachments/assets/728f61d1-5530-463a-8426-b976d8dbe24c' width = '200' height='200/>
+* k-means
+* DNN
+* CNN
 
+* DNN
+* CNN
 | 알고리즘          | 정확도 (%) |
 |------------------|------------|
 | 로지스틱 회귀    | 낮은 정확도 |
