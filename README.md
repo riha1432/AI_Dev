@@ -28,8 +28,6 @@
 * CNN
 - <img src="https://github.com/user-attachments/assets/995eb3ff-94e2-480b-a513-83bda3412819" width="500">
 
-* DNN
-* CNN
 | 알고리즘          | 정확도 (%) |
 |------------------|------------|
 | 로지스틱 회귀    | 낮은 정확도 |
