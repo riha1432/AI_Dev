@@ -20,7 +20,7 @@
 
 ### 알고리즘 정확도 비교
 * 로지스틱 회귀
-- ![image](https://github.com/user-attachments/assets/94a36023-d709-4083-bd66-2de6b56def34)
+- ![image](https://github.com/user-attachments/assets/94a36023-d709-4083-bd66-2de6b56def34){ : width = '400'}
 
 
 * k-means
