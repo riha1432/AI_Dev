@@ -17,7 +17,7 @@
 - 합성곱 신경망 (CNN)
 
 ## 개발 환경
-- 구글 코랩 <img src="https://simpleicons.org/icons/googlecolab.svg" width = "30">
+- 구글 코랩 <img src="https://simpleicons.org/icons/googlecolab.svg" width = "25">
    
 ## 결과
 
