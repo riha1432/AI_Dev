@@ -17,8 +17,8 @@
 - 합성곱 신경망 (CNN)
 
 ## 개발 환경
-- 구글 코랩
-
+- 구글 코랩 <img src="https://simpleicons.org/icons/googlecolab.svg" width = "30">
+   
 ## 결과
 
 ### 알고리즘 정확도 비교
